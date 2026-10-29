@@ -5,11 +5,11 @@
 <h1 align="center">Yakit Browser Agent</h1>
 
 <p align="center">
-  面向真实浏览器上下文的安全测试与 AI Agent 协作扩展
+  Security Testing and AI Agent Collaboration Extension for Real Browser Contexts
 </p>
 
 <p align="center">
-  连接浏览器、Yak 引擎与 Yakit，让登录态、页面函数、前端加解密、网络请求和人工操作成为可授权、可复用、可审计的测试能力。
+  Connects the browser, Yak Engine, and Yakit, transforming login states, page functions, frontend encryption/decryption, network requests, and manual operations into authorized, reusable, and auditable testing capabilities.
 </p>
 
 > [!IMPORTANT]
