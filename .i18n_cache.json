@@ -6,7 +6,7 @@
     "丢弃数据包": "Drop Packet",
     "放行数据包": "Forward Packet",
     "模糊测试": "Fuzzing",
-    "反连平台": "OOB Reverse Server",
+    "OOB Reverse Server": "OOB Reverse Server",
     "Reverse Server": "Reverse Server",
     "Reverse Connection": "Reverse Connection",
     "Plugin Store": "Plugin Store",
@@ -182,5 +182,6 @@
   "MemShell": "MemShell",
   "Trojan": "Trojan",
   "Broken Access Control": "Broken Access Control",
-  "Bind Shell": "Bind Shell"
+  "Bind Shell": "Bind Shell",
+  "OOB Reverse Server": "OOB Reverse Server"
 }
