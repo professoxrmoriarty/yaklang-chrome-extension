@@ -37,7 +37,7 @@
     "隧道代理": "Tunnel Proxy",
     "域渗透": "AD Penetration",
     "域控": "Domain Controller",
-    "哈希传递": "Pass-the-Hash",
+    "Pass-the-Hash": "Pass-the-Hash",
     "Pass-the-Ticket": "Pass-the-Ticket",
     "子域名爆破": "Subdomain Brute Force",
     "Subdomain Enumeration": "Subdomain Enumeration",
@@ -185,5 +185,6 @@
   "Bind Shell": "Bind Shell",
   "OOB Reverse Server": "OOB Reverse Server",
   "Host Discovery": "Host Discovery",
-  "SSTI": "SSTI"
+  "SSTI": "SSTI",
+  "Pass-the-Hash": "Pass-the-Hash"
 }
