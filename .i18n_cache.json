@@ -50,7 +50,7 @@
     "Weak Password": "Weak Password",
     "默认口令": "Default Credential",
     "Port Scan": "Port Scan",
-    "存活探测": "Host Discovery",
+    "Host Discovery": "Host Discovery",
     "Fingerprinting": "Fingerprinting",
     "资产测绘": "Asset Mapping",
     "空间测绘": "Cyberspace Mapping",
@@ -73,7 +73,7 @@
     "Command Execution": "Command Execution",
     "命令注入": "Command Injection",
     "SQL Injection": "SQL Injection",
-    "模板注入": "SSTI",
+    "SSTI": "SSTI",
     "SSRF": "SSRF",
     "XSS": "XSS",
     "CSRF": "CSRF",
@@ -183,5 +183,7 @@
   "Trojan": "Trojan",
   "Broken Access Control": "Broken Access Control",
   "Bind Shell": "Bind Shell",
-  "OOB Reverse Server": "OOB Reverse Server"
+  "OOB Reverse Server": "OOB Reverse Server",
+  "Host Discovery": "Host Discovery",
+  "SSTI": "SSTI"
 }
